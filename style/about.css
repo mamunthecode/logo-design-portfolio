@@ -1,0 +1,125 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  background-color: black;
+  color: white;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+/* nav style */
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+}
+header nav ul {
+  list-style: none;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 14px;
+}
+.navs {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.btn {
+  height: 40px;
+  width: 108px;
+  color: #ffffff;
+  background-color: #030304;
+  border-radius: 30px;
+  border-color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+.nt {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* hero css */
+.at{
+    font-size: 72px;
+    font-weight: bold;
+}
+.lb{
+    color: #949494;
+    font-size: 18px;
+    font-weight: 400;
+}
+hr{
+  margin-top: 70px;
+  margin-bottom: 70px;
+   
+}
+/* mission */
+.mn{
+  display: flex;
+  gap: 70px;
+ 
+  align-items: center;
+justify-content: space-between;
+
+}
+.my{
+  font-size: 60px;
+  font-weight: bold;
+}
+.cv{
+  font-size: 20px;
+  font-weight: 200;
+}
+/* image section */
+.image{
+  display: flex;
+  gap: 10px;
+  
+}
+/* socil media section */
+.fo{
+  font-size: 48px;
+  font-weight: bold;
+}
+.dfg{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.stext{
+  font-size: 32px;
+  font-weight: bold;
+  color: #949494;
+}
+/* footer design */
+.ftext{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: #FF9142;
+}
+.info{
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+}
+.ctf{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mn{
+    font-size: 50px;
+    font-weight:bolder;
+}
+.sa{
+    font-size: 24px;
+    
+}
+.gh{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
