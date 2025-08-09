@@ -1,1 +1,1 @@
-Live Preview -https://mdmamun101.github.io/logo-design-portfolio/
+Live Preview -https://coruscating-tulumba-2e7ed4.netlify.app/
